@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/private/etc/profile.d'
+let g:netrw_dirhist_2='/private/etc'
+let g:netrw_dirhist_3='/Users/pixel/.ssh'
+let g:netrw_dirhist_4='/Users/pixel/Code/Ruby/ec2-tag-service/lib'
+let g:netrw_dirhist_5='/Users/pixel/Code/Ruby/ec2-tag-service'
+let g:netrw_dirhist_6='/Users/pixel/Code/Ruby/ec2-tag-service/lib'
